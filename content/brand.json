@@ -1,0 +1,64 @@
+{
+  "defaultLang": "ar",
+  "name": {
+    "ar": "مكتب المستشار للمحاماه والاستشارات العقارية والقانونية",
+    "en": "Al-Mustashar Law & Real Estate Consultancy"
+  },
+  "tagline": {
+    "ar": "نعرّفك حقوقك ونحمي مصالحك قانونيًا",
+    "en": "Know Your Rights, Protect Your Interests"
+  },
+  "about": {
+    "ar": "مكتب المستشار متخصص في تقديم الاستشارات العقارية والقانونية الشاملة. نساعدك في صياغة ومراجعة العقود، تسجيل العقارات، وحل النزاعات العقارية بأعلى مستويات الاحترافية والأمانة. نسعى دائمًا لحماية حقوقك وتقديم أفضل النصائح القانونية.",
+    "en": "Al-Mustashar Office specializes in comprehensive real estate and legal consultancy. We assist with contract drafting and review, property registration, and dispute resolution with the highest levels of professionalism and integrity. We are committed to protecting your rights and providing the best legal advice."
+  },
+  "colors": {
+    "primary": "#C8A23C",
+    "accent": "#1B2A4A",
+    "bg": "#F8F5EF",
+    "text": "#1A1A2E"
+  },
+  "logo": "",
+  "hero": "",
+  "highlights": [
+    {
+      "icon": "⚖️",
+      "title": { "ar": "استشارات قانونية", "en": "Legal Consultancy" },
+      "text": { "ar": "نقدم استشارات قانونية متخصصة في جميع القضايا العقارية والمدنية", "en": "Specialized legal consultancy in all real estate and civil matters" }
+    },
+    {
+      "icon": "📝",
+      "title": { "ar": "صياغة ومراجعة العقود", "en": "Contract Drafting & Review" },
+      "text": { "ar": "صياغة ومراجعة جميع أنواع العقود لضمان حماية حقوقك الكاملة", "en": "Drafting and reviewing all types of contracts to ensure full protection of your rights" }
+    },
+    {
+      "icon": "🏠",
+      "title": { "ar": "تسجيل العقارات", "en": "Property Registration" },
+      "text": { "ar": "إتمام إجراءات تسجيل العقارات في الشهر العقاري بسهولة وسرعة", "en": "Completing property registration procedures smoothly and efficiently" }
+    },
+    {
+      "icon": "🛡️",
+      "title": { "ar": "حل النزاعات العقارية", "en": "Dispute Resolution" },
+      "text": { "ar": "المساعدة في حل جميع النزاعات العقارية بالطرق القانونية السليمة", "en": "Assisting in resolving all real estate disputes through proper legal channels" }
+    }
+  ],
+  "products": [],
+  "gallery": [],
+  "contact": {
+    "whatsapp": "201069438052",
+    "phone": "01069438052",
+    "email": "",
+    "instagram": "",
+    "facebook": "https://www.facebook.com/mostsharllakaratwalmhama",
+    "tiktok": "",
+    "address": {
+      "ar": "القاهرة، مصر",
+      "en": "Cairo, Egypt"
+    },
+    "hours": {
+      "ar": "السبت - الخميس: ٩ صباحًا - ٥ مساءً",
+      "en": "Saturday - Thursday: 9 AM - 5 PM"
+    },
+    "map": ""
+  }
+}
